@@ -1,2 +1,3 @@
 # EAGLES-FC
-This is a databse based on Eagles FC Players
+This is a databse based on Mancity Players
+
